@@ -4,8 +4,8 @@ I primarily come from a backend development background. When I started learning 
 
 ## Machine Learning and Deep Learning synopsis 
 
-for i in range(nb_epochs):   
+'''for i in range(nb_epochs):   
     params_grad = evaluate_gradient(loss_function, data, params)           
-    params = params - learning_rate * params_grad
+    params = params - learning_rate * params_grad'''
 
 ![Alt Text](assets/AI-Integrated.png)
