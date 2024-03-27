@@ -1,3 +1,4 @@
+## Linear Regression 
 The classic regression problem involves a single independent variable and a dependent variable. This is called simple regression. This component supports simple regression.
 
 Multiple linear regression involves two or more independent variables that contribute to a single dependent variable. Problems in which multiple inputs are used to predict a single numeric outcome are also called multivariate linear regression.
@@ -8,7 +9,7 @@ Multi-label regression is the task of predicting multiple dependent variables wi
 
 There are two methods of loss functions used to fit the regression line: A. ordinary least squares(OLS) method, and B. gradient descent.
 
-A. Ordinary least squares (OLS): this loss function computes error as the sum of the square of distance from the actual value to the predicted line, and fits the model by minimizing the squared error. This method assumes a strong linear relationship between the inputs and the dependent variable. This is usually used for small datasets.
+### Ordinary least squares (OLS) : this loss function computes error as the sum of the square of distance from the actual value to the predicted line, and fits the model by minimizing the squared error. This method assumes a strong linear relationship between the inputs and the dependent variable. This is usually used for small datasets.
 
 ∑(yi – ŷi)^2 - where yi is the actual value and ŷi is the predicted value.
 
