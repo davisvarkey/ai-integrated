@@ -9,7 +9,8 @@ Multi-label regression is the task of predicting multiple dependent variables wi
 
 There are two methods of loss functions used to fit the regression line: A. ordinary least squares(OLS) method, and B. gradient descent.
 
-### Ordinary least squares (OLS) : this loss function computes error as the sum of the square of distance from the actual value to the predicted line, and fits the model by minimizing the squared error. This method assumes a strong linear relationship between the inputs and the dependent variable. This is usually used for small datasets.
+### Ordinary least squares (OLS):
+this loss function computes error as the sum of the square of distance from the actual value to the predicted line, and fits the model by minimizing the squared error. This method assumes a strong linear relationship between the inputs and the dependent variable. This is usually used for small datasets.
 
 ∑(yi – ŷi)^2 - where yi is the actual value and ŷi is the predicted value.
 
@@ -20,7 +21,9 @@ R-squared : R-squared is a statistical measure of how close the data are to the 
     L2 regularization weight - 0.001 (Non-zero is recommened to avoid overfitting)
     Random number seed - 123
 
-A. Gradient descent:  is a method that minimizes the amount of error at each step of the model training process. There are many variations on gradient descent and its optimization for various learning problems has been extensively studied. If you choose this option for Solution method, you can set a variety of parameters to control the step size, learning rate, and so forth. This option also supports use of an integrated parameter sweep. This is used for more complex dataset.
+### Gradient descent: 
+This method minimizes the amount of error at each step of the model training process. There are many variations on gradient descent and its optimization for various learning problems has been extensively studied. If you choose this option for Solution method, you can set a variety of parameters to control the step size, learning rate, and so forth. This option also supports use of an integrated parameter sweep. This is used for more complex dataset.
+
      Training settings:-
      Solution method - Gradient descent
      L2 regularization weight - 0.001 (Non-zero is recommened to avoid overfitting)
