@@ -1,4 +1,7 @@
 ## Linear Regression 
+
+Linear regression is a common statistical method, which has been adopted in machine learning and enhanced with many new methods for fitting the line and measuring error. Simply put, regression refers to prediction of a numeric target. Linear regression is still a good choice when you want a simple model for a basic predictive task. Linear regression also tends to work well on high-dimensional, sparse data sets lacking complexity
+
 The classic regression problem involves a single independent variable and a dependent variable. This is called simple regression. This component supports simple regression.
 
 Multiple linear regression involves two or more independent variables that contribute to a single dependent variable. Problems in which multiple inputs are used to predict a single numeric outcome are also called multivariate linear regression.
