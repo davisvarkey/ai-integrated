@@ -2,9 +2,11 @@
 ## Motivation
 I primarily come from a backend development background. When I started learning data science and machine learning on my own, it was challenging to connect the dots since the materials were scattered around like piecemeal. With the advent of ChatGPT, AI became a hot topic, and everyone wanted to get involved. When colleagues, friends, and students approached me for discussions, it was difficult to provide a single point of reference where they could get a complete picture of what we were talking about. That’s when I decided to create an integrated learning space for AI. It’s common for people to be confused with AI, Data Science, ML, DL, and General AI. This space will offer a better understanding of each one of them and how they are related.
 
-![Alt Text](assets/AI-Integrated.png)
+![Alt Text](assets/Data-Science.png)
 
-## Machine Learning and Deep Learning synopsis 
+![Alt Text](assets/Generative-AI.png)
+
+## Machine Learning and Deep Learning  
 
 Those who come from a development background may find it challenging to understand how machines learn autonomously from data. Typically, developers write functions that take a set of input data, perform certain logic, and return the output. However, in Machine Learning, it’s the other way around; the algorithm learns the logic from the data, which it then uses to predict the output. 
 
