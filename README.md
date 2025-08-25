@@ -4,6 +4,9 @@ I primarily come from a backend development background. When I started learning 
 
 ![Alt Text](assets/AI_Data_Science.png)
 
+## Generative AI
+Generative AI is a subset of artificial intelligence that focuses on creating new content, such as text, images, music, or even code, by learning patterns from existing data. 
+
 ![Alt Text](assets/Generative-AI.png)
 
 ## Machine Learning and Deep Learning  
